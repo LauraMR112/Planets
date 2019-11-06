@@ -1,2 +1,4 @@
 Mercurio
 Venus
+Tierra
+Marte
